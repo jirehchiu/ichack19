@@ -132,6 +132,12 @@ $(document).ready(function(){
     }  // End if
   });
 });
+
+$('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+});
+	
+	
 function uploadFile() {
     var blobFile = $('#filechooser').files[0];
     var formData = new FormData();
