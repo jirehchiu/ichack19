@@ -1,4 +1,4 @@
 # ichack19
-Front end for carbon footprint web app written for IC Hack 2019
+Carbon and Water Footprint Web App. 
 
-Experimenting with GitHub Pages
+The App takes a photo and outputs a score based on the size of the carbon and water footprint. 
